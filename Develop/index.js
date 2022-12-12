@@ -19,7 +19,7 @@ const generateReadme = ({title, description, table_of_contents, installation, us
 ## Usage
     ${usage}
 ## Liscense
-    The current licence in use is ${license}.
+    The current license in use is ${license}.
 ## Contributing
     ${contributing}
 ## Tests
@@ -85,7 +85,7 @@ inquirer
         },
     ])
     .then((info) => {
-        createBadge(...info.license)
+        const badge = createBadge(...info.license)
         const readmeContent = generateReadme({info, badge})
         fs.writeFile("README.md", readmeContent, (err) =>
             err ? console.log(err): console.log("Successfully created your README.md file."))

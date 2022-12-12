@@ -1,18 +1,20 @@
-# r                         ##Apache License 2.0
+# undefined 
 
 ## Description
-    r
+    undefined
 ## Table of Contents
-    r
+    undefined
 ## Installation
-    r
+    undefined
 ## Usage
-    r
+    undefined
 ## Liscense
-    The current licence is use is Apache License 2.0.
+    The current license in use is undefined.
 ## Contributing
-    r
+    undefined
 ## Tests
-    r
+    undefined
 ## Questions
-    r
+    If you have any questions please contact undefined for a look at the repo checkout: https://github.com/undefined/undefined.
+    
+    For any additional questions please contact undefined
